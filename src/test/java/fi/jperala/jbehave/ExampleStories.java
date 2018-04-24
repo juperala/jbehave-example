@@ -1,4 +1,4 @@
-package fi.jperala.jbehave.issue;
+package fi.jperala.jbehave;
 
 import org.jbehave.core.Embeddable;
 import org.jbehave.core.configuration.Configuration;

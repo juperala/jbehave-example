@@ -1,9 +1,8 @@
-package fi.jperala.jbehave.issue;
+package fi.jperala.jbehave;
 
 import org.jbehave.core.annotations.AfterScenario;
 import org.jbehave.core.annotations.Given;
 import org.jbehave.core.annotations.ScenarioType;
-import org.jbehave.core.annotations.When;
 import org.jbehave.web.selenium.WebDriverProvider;
 
 public class ExampleSteps {
